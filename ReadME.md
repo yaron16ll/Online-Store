@@ -51,7 +51,7 @@ Online Store SPA for selling groceries using Angular & Node.JS.
 ***
 
 ### Receipt:
-The customer recieves a receipt as a text file.
+* The customer recieves a receipt as a text file.
 ![receipt](./receipt.png)
 
 
@@ -68,5 +68,5 @@ The customer recieves a receipt as a text file.
 ***
 
 ### Admin Panel:
-You can edit a product or add a new one.
+* You can edit a product or add a new one.
 ![adminPanel](./adminMode.png)
