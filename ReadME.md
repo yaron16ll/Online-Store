@@ -1,4 +1,4 @@
-# Online_Store
+# Online Store
 
 Online Store SPA for selling groceries using Angular & Node.JS.
 
